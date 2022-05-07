@@ -1,5 +1,5 @@
 # Route Planner with A* Search Algorithm
-##  Udacity Data Structures and Algortihms Nanodegree
+##  Udacity Data Structures and Algortihms Nanodegree, Advanced Algorithms Seciton Homework Project
 
 A* search is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. 
 
